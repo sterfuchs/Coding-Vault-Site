@@ -1,0 +1,8 @@
+baseURL: "https://sterfuchs.github.io/Coding-Vault-Site/"
+title: "Obsidian Coding Vault"
+theme: "PaperMod"
+languageCode: "en-us"
+
+# MetaData
+author: "Sterling Fuchsberger"
+description: "A comprehensive collection of programming languages, frameworks, plugins research from Obsidian."
